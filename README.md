@@ -1,5 +1,6 @@
 # Olympic Data Cleaning and Analysis in SQL
-This project demonstrates data cleaning, transformation, and analysis on a dataset of Olympic athletes and events. Using SQL, I performed advanced data wrangling to prepare the data for analysis and answered several key questions to derive insights.
+![images](https://github.com/user-attachments/assets/27fe1b67-9ed3-443b-bb9a-1583113533c1)
+
 ---
 ## Project Overview
 This project demonstrates the process of cleaning, transforming, and analyzing a dataset of Olympic athlete events using SQL. It includes data wrangling steps to prepare the dataset for analysis and answers key questions to gain insights into Olympic events, athletes, and countries. This project highlights SQL skills in data engineering and analysis, focusing on data quality and advanced SQL operations. 
